@@ -7,8 +7,7 @@ Favor ingresar su nombre y apellido`);
 
 function agregarNotas () {
     for(let i = 1; i <=5; i++){
-    notasEstudiante.push (parseInt ((prompt(`Bievenido a la calculadora de Promedio de Notas.
-    Por favor ingresar cada una de sus notas. Máximo 5 notas, estas van del 10 al 100`))))
+    notasEstudiante.push (parseInt ((prompt(`Bievenido a la calculadora de Promedio de Notas. Por favor ingresar cada una de sus notas. Máximo 5 notas, estas van del 10 al 100`))))
     }
     }
 
